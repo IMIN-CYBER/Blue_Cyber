@@ -27,6 +27,8 @@ $ cd Blue_Cyber
 
 $ git pull
 
+$ ls
+
 $ python run.py
 
 ☆ perintah Login ☆
