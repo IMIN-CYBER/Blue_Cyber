@@ -36,6 +36,8 @@ $ python run.py
 -> masukan token
 
 -> kalo udah Sukses Login ke Script Nya
-Logout ctrl+z masuk lagi ke Script Nya
+Logout ctrl+z masuk lagi ke Script Nya !!
+
+$ ls
 
 $ python blue_cyber.py
