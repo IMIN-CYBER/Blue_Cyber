@@ -1,7 +1,7 @@
 # Blue_Cyber
 #Jangan Lupa Kasih ⭐bintang Nya Oke
 
-#Biyar Update Lagi Script Free Nya Thanks 😇🙏
+#Biyar Update Lagi Script Free Nya 😇🙏
 
 $ pkg update
 
