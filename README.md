@@ -23,8 +23,11 @@ $ git clone https://github.com/IMIN-CYBER/blue_cyber.py
 
 $ ls
 
-$ cd blue_cyber.py
-
-$ git pull
+$ python run.py
+☆ perintah Login ☆
+-> maasukan cookie
+-> masukan token
+-> kalo udah Sukses Login ke Script nya
+Logout ctrl+z masuk lagi
 
 $ python blue_cyber.py
