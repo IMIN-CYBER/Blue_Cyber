@@ -26,6 +26,7 @@ $ ls
 $ python run.py
 
 ☆ perintah Login ☆
+
 -> maasukan cookie
 
 -> masukan token
