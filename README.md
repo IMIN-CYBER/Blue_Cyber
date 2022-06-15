@@ -24,6 +24,7 @@ $ git clone https://github.com/IMIN-CYBER/blue_cyber.py
 $ ls
 
 $ python run.py
+
 ☆ perintah Login ☆
 -> maasukan cookie
 -> masukan token
