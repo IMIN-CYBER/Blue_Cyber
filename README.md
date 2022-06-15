@@ -27,7 +27,9 @@ $ python run.py
 
 ☆ perintah Login ☆
 -> maasukan cookie
+
 -> masukan token
+
 -> kalo udah Sukses Login ke Script nya
 Logout ctrl+z masuk lagi
 
