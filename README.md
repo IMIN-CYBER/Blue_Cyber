@@ -25,6 +25,8 @@ $ ls
 
 $ cd Blue_Cyber
 
+$ ls
+
 $ git pull
 
 $ ls
