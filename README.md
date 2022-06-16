@@ -39,8 +39,8 @@ $ python run.py
 
 -> masukan token
 
--> kalo udah Sukses Login ke Script Logout Dulu ( ctrl+z )
-Masuk Lgi ke Scrit Blue_Cyber
+-> kalo udah Sukses masuk ke menu Logout Dulu ( ctrl+z )
+Kemudian Crack nya di python Blue_Cyber.py
 
 $ ls
 
