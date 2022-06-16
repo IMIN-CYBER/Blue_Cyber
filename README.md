@@ -40,6 +40,7 @@ $ python run.py
 -> masukan token
 
 -> kalo udah Sukses masuk ke menu Logout Dulu dengan menekan ( ctrl+z )
+
 Kemudian Crack nya di python Blue_Cyber.py
 
 $ ls
