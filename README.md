@@ -38,8 +38,8 @@ $ python run.py
 -> masukan token
 
 -> kalo udah Sukses Login ke Script Logout Dulu ( ctrl+z )
-Masuk Lgi ke Scrit blue_cyber
+Masuk Lgi ke Scrit Blue_Cyber
 
 $ ls
 
-$ python blue_cyber.py
+$ python Blue_Cyber.py
