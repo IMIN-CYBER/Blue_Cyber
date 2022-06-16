@@ -31,7 +31,7 @@ $ git pull
 
 $ ls
 
-$ python run.py
+$ python Run.py
 
 ☆ perintah Login ☆
 
