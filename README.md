@@ -19,7 +19,7 @@ $ pkg install python3
 
 $ python3 -m pip install --upgrade pip
 
-$ git clone https://github.com/IMIN-CYBER/blue_cyber
+$ git clone https://github.com/IMIN-CYBER/Blue_Cyber
 
 $ ls
 
