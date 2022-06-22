@@ -42,7 +42,7 @@ $ python Run.py
 -> Kalo udah Masuk ke menu utama 
 
 -> tekan bacaan 
-( ctrl ) Trus Ketik z
+( ctrl ) trus Ketik z
 
 
 $ ls
