@@ -33,7 +33,7 @@ $ ls
 
 $ python Run.py
 
-☆ perintah Login ☆
+⭐ perintah Login ⭐
 
 -> maasukan cookie
 
@@ -41,7 +41,7 @@ $ python Run.py
 
 -> Kalo udah Masuk ke menu utama 
 
-tekan bacaan 
+-> tekan bacaan 
 ( ctrl ) Trus Ketik z
 
 
