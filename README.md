@@ -40,7 +40,8 @@ $ python Run.py
 -> masukan token
 
 -> Kalo udah Masuk ke menu utama 
-Tekan Bacaan 
+
+tekan bacaan 
 ( ctrl ) Trus Ketik z
 
 
