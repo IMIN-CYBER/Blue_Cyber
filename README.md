@@ -39,9 +39,9 @@ $ python Run.py
 
 -> masukan token
 
--> kalo udah Sukses masuk ke menu 
-Logout Dulu dengan menekan ( ctrl+z )
-Kemudian Crack nya di python Blue_Cyber.py
+-> Kalo udah Masuk ke Menu Utama Tekan Bacaan 
+( ctrl ) Trus Ketik z
+
 
 $ ls
 
