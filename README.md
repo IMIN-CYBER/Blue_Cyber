@@ -39,7 +39,7 @@ $ python Run.py
 
 -> masukan token
 
--> Kalo udah Masuk ke Menu Utama 
+-> Kalo udah Masuk ke menu utama 
 Tekan Bacaan 
 ( ctrl ) Trus Ketik z
 
