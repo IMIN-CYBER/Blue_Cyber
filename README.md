@@ -31,20 +31,4 @@ $ git pull
 
 $ ls
 
-$ python Run.py
-
-⭐ perintah Login ⭐
-
--> maasukan cookie
-
--> masukan token
-
--> Kalo udah Masuk ke menu utama 
-
--> tekan bacaan 
-( ctrl ) trus Ketik z
-
-
-$ ls
-
 $ python Blue_Cyber.py
